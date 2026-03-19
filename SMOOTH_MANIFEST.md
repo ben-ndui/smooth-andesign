@@ -2,25 +2,25 @@
 
 ## Projet
 - Nom: smooth-andesign
-- Type: documents légaux
-- Client: Smooth & Design (interne)
+- Description: Files
+- Type: web
+- Client: Smooth & Design
 - Statut: actif
 
 ## Stack
-- Frontend: N/A (fichiers texte brut)
-- Backend: N/A
-- Auth: N/A
-- Base de données: N/A
-- Autres: N/A
+- Frontend: —
+- Backend: —
+- Auth: —
+- Base de données: —
+- Autres: —
 
 ## Features implémentées
-- Hébergement des CGU (Conditions Générales d'Utilisation) de Smooth & Design
-- Hébergement des CGV (Conditions Générales de Vente) de Smooth & Design
+- (aucune feature détectée — repo minimal ou vide)
 
 ## Patterns notables
-- Architecture: Repo minimaliste avec 2 fichiers texte (cgu, cgv) sans extension — stockage brut des documents légaux
-- Collections Firestore / tables Supabase: Aucune
-- Conventions de nommage: Fichiers nommés simplement "cgu" et "cgv" sans extension
+- Architecture: —
+- Collections Firestore / tables Supabase: —
+- Conventions de nommage: snake_case
 
 ## Réutilisabilité
-- Snippets clés: Template de structure pour héberger les documents légaux d'un projet via GitHub (accessible via raw URL)
+- Aucun snippet identifié
